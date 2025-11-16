@@ -1,0 +1,19 @@
+{
+  "input_data": {
+    "raw_data_path": "valor"
+  },
+  "features_destination": {
+    "trainset_path": "valor",
+    "testset_path": "valor"
+  },
+
+  "models": {
+    "hiperparams": {
+      "max_depth": 5
+    },
+
+    "paths": {
+      "model_path": "valor"
+    }
+  }
+}
